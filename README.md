@@ -6,7 +6,7 @@ A smart contract that automates the **health insurance claim process** on-chain.
 
 ---
 
-## 🎯 Why was this built?
+## 🎯 Why was this built? 
 
 ✅ Traditional insurance claim processing is:
 
